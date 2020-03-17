@@ -1,6 +1,7 @@
-# Smart-Leaf
-
-<img src="./static/omnistack.png" align="center"></img>
+# Smart-Leaf project
+<h1 align="center">
+    <img src="./static/Logo.png" align="center"></img>
+</h1>
 
 <img alt="License" src="https://img.shields.io/github/license/F-V-group/Smart-Leaf">
 <img alt="License" src="https://img.shields.io/badge/language-c%2B%2B-blue">
